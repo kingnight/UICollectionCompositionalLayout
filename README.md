@@ -702,6 +702,8 @@ class BackgroundSupplementaryView: UICollectionReusableView {
 
 ![3332432432543543535435](./_resources/3332432432543543535435.png)
 
+图39
+
 当scrollDirection属性设置水平，orthogonalScrollingBehavior设置非none属性，都会使得滚动轴方向调转，从水平变成垂直，垂直滚动，每个Item占满整个屏幕，每个Item自动分页效果展示。
 
 # 结语
